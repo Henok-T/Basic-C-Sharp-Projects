@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\AcmeSysApp\AcmeSysApp\bin\Debug\AcmeSysApp.exe.config
+C:\Users\hktse\source\repos\AcmeSysApp\AcmeSysApp\bin\Debug\AcmeSysApp.exe
+C:\Users\hktse\source\repos\AcmeSysApp\AcmeSysApp\bin\Debug\AcmeSysApp.pdb
+C:\Users\hktse\source\repos\AcmeSysApp\AcmeSysApp\obj\Debug\AcmeSysApp.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\AcmeSysApp\AcmeSysApp\obj\Debug\AcmeSysApp.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\AcmeSysApp\AcmeSysApp\obj\Debug\AcmeSysApp.exe
+C:\Users\hktse\source\repos\AcmeSysApp\AcmeSysApp\obj\Debug\AcmeSysApp.pdb
