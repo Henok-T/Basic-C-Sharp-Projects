@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\hktse\source\repos\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\hktse\source\repos\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\hktse\source\repos\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\hktse\source\repos\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
