@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\math_Drill\math_Drill\bin\Debug\math_Drill.exe.config
+C:\Users\hktse\source\repos\math_Drill\math_Drill\bin\Debug\math_Drill.exe
+C:\Users\hktse\source\repos\math_Drill\math_Drill\bin\Debug\math_Drill.pdb
+C:\Users\hktse\source\repos\math_Drill\math_Drill\obj\Debug\math_Drill.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\math_Drill\math_Drill\obj\Debug\math_Drill.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\math_Drill\math_Drill\obj\Debug\math_Drill.exe
+C:\Users\hktse\source\repos\math_Drill\math_Drill\obj\Debug\math_Drill.pdb
