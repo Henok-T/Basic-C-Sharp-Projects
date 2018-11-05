@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Income_Comparison\Income_Comparison\bin\Debug\Income_Comparison.exe.config
+C:\Users\hktse\source\repos\Income_Comparison\Income_Comparison\bin\Debug\Income_Comparison.exe
+C:\Users\hktse\source\repos\Income_Comparison\Income_Comparison\bin\Debug\Income_Comparison.pdb
+C:\Users\hktse\source\repos\Income_Comparison\Income_Comparison\obj\Debug\Income_Comparison.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Income_Comparison\Income_Comparison\obj\Debug\Income_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Income_Comparison\Income_Comparison\obj\Debug\Income_Comparison.exe
+C:\Users\hktse\source\repos\Income_Comparison\Income_Comparison\obj\Debug\Income_Comparison.pdb
