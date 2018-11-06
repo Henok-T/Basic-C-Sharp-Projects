@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Shipping_Quote\Shipping_Quote\bin\Debug\Shipping_Quote.exe.config
+C:\Users\hktse\source\repos\Shipping_Quote\Shipping_Quote\bin\Debug\Shipping_Quote.exe
+C:\Users\hktse\source\repos\Shipping_Quote\Shipping_Quote\bin\Debug\Shipping_Quote.pdb
+C:\Users\hktse\source\repos\Shipping_Quote\Shipping_Quote\obj\Debug\Shipping_Quote.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Shipping_Quote\Shipping_Quote\obj\Debug\Shipping_Quote.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Shipping_Quote\Shipping_Quote\obj\Debug\Shipping_Quote.exe
+C:\Users\hktse\source\repos\Shipping_Quote\Shipping_Quote\obj\Debug\Shipping_Quote.pdb
