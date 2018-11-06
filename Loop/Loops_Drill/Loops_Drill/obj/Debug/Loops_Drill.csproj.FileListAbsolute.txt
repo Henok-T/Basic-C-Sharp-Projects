@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Loops_Drill\Loops_Drill\obj\Debug\Loops_Drill.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Loops_Drill\Loops_Drill\obj\Debug\Loops_Drill.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Loops_Drill\Loops_Drill\bin\Debug\Loops_Drill.exe.config
+C:\Users\hktse\source\repos\Loops_Drill\Loops_Drill\bin\Debug\Loops_Drill.exe
+C:\Users\hktse\source\repos\Loops_Drill\Loops_Drill\bin\Debug\Loops_Drill.pdb
+C:\Users\hktse\source\repos\Loops_Drill\Loops_Drill\obj\Debug\Loops_Drill.exe
+C:\Users\hktse\source\repos\Loops_Drill\Loops_Drill\obj\Debug\Loops_Drill.pdb
