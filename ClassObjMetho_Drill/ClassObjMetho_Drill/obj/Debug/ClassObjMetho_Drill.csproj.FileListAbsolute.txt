@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\ClassObjMetho_Drill\ClassObjMetho_Drill\obj\Debug\ClassObjMetho_Drill.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\ClassObjMetho_Drill\ClassObjMetho_Drill\obj\Debug\ClassObjMetho_Drill.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\ClassObjMetho_Drill\ClassObjMetho_Drill\bin\Debug\ClassObjMetho_Drill.exe.config
+C:\Users\hktse\source\repos\ClassObjMetho_Drill\ClassObjMetho_Drill\bin\Debug\ClassObjMetho_Drill.exe
+C:\Users\hktse\source\repos\ClassObjMetho_Drill\ClassObjMetho_Drill\bin\Debug\ClassObjMetho_Drill.pdb
+C:\Users\hktse\source\repos\ClassObjMetho_Drill\ClassObjMetho_Drill\obj\Debug\ClassObjMetho_Drill.exe
+C:\Users\hktse\source\repos\ClassObjMetho_Drill\ClassObjMetho_Drill\obj\Debug\ClassObjMetho_Drill.pdb
