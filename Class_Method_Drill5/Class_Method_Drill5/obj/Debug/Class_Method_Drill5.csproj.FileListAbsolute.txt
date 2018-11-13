@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Class_Method_Drill5\Class_Method_Drill5\bin\Debug\Class_Method_Drill5.exe.config
+C:\Users\hktse\source\repos\Class_Method_Drill5\Class_Method_Drill5\bin\Debug\Class_Method_Drill5.exe
+C:\Users\hktse\source\repos\Class_Method_Drill5\Class_Method_Drill5\bin\Debug\Class_Method_Drill5.pdb
+C:\Users\hktse\source\repos\Class_Method_Drill5\Class_Method_Drill5\obj\Debug\Class_Method_Drill5.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Class_Method_Drill5\Class_Method_Drill5\obj\Debug\Class_Method_Drill5.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Class_Method_Drill5\Class_Method_Drill5\obj\Debug\Class_Method_Drill5.exe
+C:\Users\hktse\source\repos\Class_Method_Drill5\Class_Method_Drill5\obj\Debug\Class_Method_Drill5.pdb
