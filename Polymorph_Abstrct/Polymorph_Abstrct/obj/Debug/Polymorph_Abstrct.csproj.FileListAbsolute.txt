@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Polymorph_Abstrct\Polymorph_Abstrct\bin\Debug\Polymorph_Abstrct.exe.config
+C:\Users\hktse\source\repos\Polymorph_Abstrct\Polymorph_Abstrct\bin\Debug\Polymorph_Abstrct.exe
+C:\Users\hktse\source\repos\Polymorph_Abstrct\Polymorph_Abstrct\bin\Debug\Polymorph_Abstrct.pdb
+C:\Users\hktse\source\repos\Polymorph_Abstrct\Polymorph_Abstrct\obj\Debug\Polymorph_Abstrct.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Polymorph_Abstrct\Polymorph_Abstrct\obj\Debug\Polymorph_Abstrct.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Polymorph_Abstrct\Polymorph_Abstrct\obj\Debug\Polymorph_Abstrct.exe
+C:\Users\hktse\source\repos\Polymorph_Abstrct\Polymorph_Abstrct\obj\Debug\Polymorph_Abstrct.pdb
