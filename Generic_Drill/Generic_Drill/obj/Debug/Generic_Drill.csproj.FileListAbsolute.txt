@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Generic_Drill\Generic_Drill\bin\Debug\Generic_Drill.exe.config
+C:\Users\hktse\source\repos\Generic_Drill\Generic_Drill\bin\Debug\Generic_Drill.exe
+C:\Users\hktse\source\repos\Generic_Drill\Generic_Drill\bin\Debug\Generic_Drill.pdb
+C:\Users\hktse\source\repos\Generic_Drill\Generic_Drill\obj\Debug\Generic_Drill.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Generic_Drill\Generic_Drill\obj\Debug\Generic_Drill.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Generic_Drill\Generic_Drill\obj\Debug\Generic_Drill.exe
+C:\Users\hktse\source\repos\Generic_Drill\Generic_Drill\obj\Debug\Generic_Drill.pdb
