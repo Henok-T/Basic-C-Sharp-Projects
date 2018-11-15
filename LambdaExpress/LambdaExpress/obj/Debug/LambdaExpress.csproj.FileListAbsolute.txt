@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\LambdaExpress\LambdaExpress\bin\Debug\LambdaExpress.exe.config
+C:\Users\hktse\source\repos\LambdaExpress\LambdaExpress\bin\Debug\LambdaExpress.exe
+C:\Users\hktse\source\repos\LambdaExpress\LambdaExpress\bin\Debug\LambdaExpress.pdb
+C:\Users\hktse\source\repos\LambdaExpress\LambdaExpress\obj\Debug\LambdaExpress.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\LambdaExpress\LambdaExpress\obj\Debug\LambdaExpress.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\LambdaExpress\LambdaExpress\obj\Debug\LambdaExpress.exe
+C:\Users\hktse\source\repos\LambdaExpress\LambdaExpress\obj\Debug\LambdaExpress.pdb
