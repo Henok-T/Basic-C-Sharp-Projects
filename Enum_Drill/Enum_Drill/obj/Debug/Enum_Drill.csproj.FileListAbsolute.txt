@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Enum_Drill\Enum_Drill\bin\Debug\Enum_Drill.exe.config
+C:\Users\hktse\source\repos\Enum_Drill\Enum_Drill\bin\Debug\Enum_Drill.exe
+C:\Users\hktse\source\repos\Enum_Drill\Enum_Drill\bin\Debug\Enum_Drill.pdb
+C:\Users\hktse\source\repos\Enum_Drill\Enum_Drill\obj\Debug\Enum_Drill.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Enum_Drill\Enum_Drill\obj\Debug\Enum_Drill.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Enum_Drill\Enum_Drill\obj\Debug\Enum_Drill.exe
+C:\Users\hktse\source\repos\Enum_Drill\Enum_Drill\obj\Debug\Enum_Drill.pdb
