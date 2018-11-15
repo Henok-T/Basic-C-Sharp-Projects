@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct_Drill", "Struct_Drill\Struct_Drill.csproj", "{0C4B4889-5055-4261-B6CD-E10CF130DC8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4B4889-5055-4261-B6CD-E10CF130DC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4B4889-5055-4261-B6CD-E10CF130DC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4B4889-5055-4261-B6CD-E10CF130DC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4B4889-5055-4261-B6CD-E10CF130DC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A29EDD74-E250-4811-A611-F6108D8A6C69}
+	EndGlobalSection
+EndGlobal

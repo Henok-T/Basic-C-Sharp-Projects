@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Struct_Drill\Struct_Drill\bin\Debug\Struct_Drill.exe.config
+C:\Users\hktse\source\repos\Struct_Drill\Struct_Drill\bin\Debug\Struct_Drill.exe
+C:\Users\hktse\source\repos\Struct_Drill\Struct_Drill\bin\Debug\Struct_Drill.pdb
+C:\Users\hktse\source\repos\Struct_Drill\Struct_Drill\obj\Debug\Struct_Drill.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Struct_Drill\Struct_Drill\obj\Debug\Struct_Drill.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Struct_Drill\Struct_Drill\obj\Debug\Struct_Drill.exe
+C:\Users\hktse\source\repos\Struct_Drill\Struct_Drill\obj\Debug\Struct_Drill.pdb
