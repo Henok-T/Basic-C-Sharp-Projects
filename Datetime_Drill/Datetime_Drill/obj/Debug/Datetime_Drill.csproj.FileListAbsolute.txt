@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\Datetime_Drill\Datetime_Drill\bin\Debug\Datetime_Drill.exe.config
+C:\Users\hktse\source\repos\Datetime_Drill\Datetime_Drill\bin\Debug\Datetime_Drill.exe
+C:\Users\hktse\source\repos\Datetime_Drill\Datetime_Drill\bin\Debug\Datetime_Drill.pdb
+C:\Users\hktse\source\repos\Datetime_Drill\Datetime_Drill\obj\Debug\Datetime_Drill.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\Datetime_Drill\Datetime_Drill\obj\Debug\Datetime_Drill.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\Datetime_Drill\Datetime_Drill\obj\Debug\Datetime_Drill.exe
+C:\Users\hktse\source\repos\Datetime_Drill\Datetime_Drill\obj\Debug\Datetime_Drill.pdb
