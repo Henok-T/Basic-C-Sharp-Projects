@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\FileInOut\FileInOut\bin\Debug\FileInOut.exe.config
+C:\Users\hktse\source\repos\FileInOut\FileInOut\bin\Debug\FileInOut.exe
+C:\Users\hktse\source\repos\FileInOut\FileInOut\bin\Debug\FileInOut.pdb
+C:\Users\hktse\source\repos\FileInOut\FileInOut\obj\Debug\FileInOut.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\FileInOut\FileInOut\obj\Debug\FileInOut.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\FileInOut\FileInOut\obj\Debug\FileInOut.exe
+C:\Users\hktse\source\repos\FileInOut\FileInOut\obj\Debug\FileInOut.pdb
