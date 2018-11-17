@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\MoreOnExceptions\MoreOnExceptions\obj\Debug\MoreOnExceptions.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\MoreOnExceptions\MoreOnExceptions\obj\Debug\MoreOnExceptions.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\MoreOnExceptions\MoreOnExceptions\bin\Debug\MoreOnExceptions.exe.config
+C:\Users\hktse\source\repos\MoreOnExceptions\MoreOnExceptions\bin\Debug\MoreOnExceptions.exe
+C:\Users\hktse\source\repos\MoreOnExceptions\MoreOnExceptions\bin\Debug\MoreOnExceptions.pdb
+C:\Users\hktse\source\repos\MoreOnExceptions\MoreOnExceptions\obj\Debug\MoreOnExceptions.exe
+C:\Users\hktse\source\repos\MoreOnExceptions\MoreOnExceptions\obj\Debug\MoreOnExceptions.pdb
