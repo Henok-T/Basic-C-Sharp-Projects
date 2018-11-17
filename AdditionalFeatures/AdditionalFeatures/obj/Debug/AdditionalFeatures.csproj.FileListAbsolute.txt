@@ -1,0 +1,7 @@
+C:\Users\hktse\source\repos\AdditionalFeatures\AdditionalFeatures\bin\Debug\AdditionalFeatures.exe.config
+C:\Users\hktse\source\repos\AdditionalFeatures\AdditionalFeatures\bin\Debug\AdditionalFeatures.exe
+C:\Users\hktse\source\repos\AdditionalFeatures\AdditionalFeatures\bin\Debug\AdditionalFeatures.pdb
+C:\Users\hktse\source\repos\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.csprojAssemblyReference.cache
+C:\Users\hktse\source\repos\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.csproj.CoreCompileInputs.cache
+C:\Users\hktse\source\repos\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.exe
+C:\Users\hktse\source\repos\AdditionalFeatures\AdditionalFeatures\obj\Debug\AdditionalFeatures.pdb
