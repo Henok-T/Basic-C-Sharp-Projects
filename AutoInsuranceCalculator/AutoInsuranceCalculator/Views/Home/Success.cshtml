@@ -1,0 +1,18 @@
+﻿@using AutoInsuranceCalculator.Models
+@model AcademyInsurees
+
+
+
+    <div class = "container" style="background-image:url(/Content/Img/carResult.jpg);
+        background-position:center; background-repeat:no-repeat; background-size:cover; padding-bottom:100px; padding-top:100px;
+        text-shadow: 0 0 15px white, 0 0 15px white;">
+        <h2>Your Result</h2>
+        <h3>
+            Dear customer, based up on the information you provided <br>
+            your estimated monthly Auto insurance quote is: <br>
+            $@ViewBag.TryGetValue / month.
+        </h3>
+    </div>
+
+
+
