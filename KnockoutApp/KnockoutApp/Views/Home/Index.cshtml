@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/scripts/knockout-3.4.2.js" type="text/javascript"></script>
+<script src="~/scripts/jquery-1.10.2.js" type="text/javascript"></script>
+
+
+<h2>Book Tracker - <span><i style="font-size:20px;">An App For A Serial Reader</i></span></h2>
+
+@*The View*@
+<h4>Add a book you just finished reading.</h4>
+
+<input type="text" data-bind="value: bookItem, valueUpdate:'afterkeydown'" /> 
+<input type="submit" data-bind="click: addBook" />
+
+<ul data-bind="foreach: array">
+    <li data-bind="text: $data"><input type="checkbox"/></li>
+</ul>
+   
+
+@*The View Model: *@
+
+<script>
+    var bookList = {
+        bookItem: ko.observable(),
+        array: ko.observableArray(), 
+        addBook: function () {
+            this.array.push(this.bookItem());
+        }
+    };
+
+    bookList.array.push('The Little Prince');
+    bookList.array.push('The Lord of the Rings');
+    bookList.array.push('Harry Potter');
+    bookList.bookItem("Enter a new book here....");
+    ko.applyBindings(bookList);
+
+</script>
+
+
+
