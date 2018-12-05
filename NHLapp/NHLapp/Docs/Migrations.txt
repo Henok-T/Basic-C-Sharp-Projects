@@ -1,0 +1,19 @@
+﻿==============================NHLContex ================================ 
+
+// this is executed only one time
+Enable-Migrations -ContextTypeName NhlContext -MigrationsDirectory Migrations\NHL  
+
+
+//this is executed whenever my Model changes
+add-migration -ConfigurationTypeName NHLapp.Migrations.NHL.Configuration "InitialCreate"  
+
+//this is executed whenever there is a change and want to update
+update-database -ConfigurationTypeName NHLapp.Migrations.NHL.Configuration
+
+==============================ApplicationDbContext =======================
+
+Enable-Migrations -ContextTypeName ApplicationDbContext -MigrationsDirectory Migrations\Identity 
+
+add-migration -ConfigurationTypeName NHLapp.Migrations.Identity.Configuration "InitialIdentity"
+
+update-database -ConfigurationTypeName NHLapp.Migrations.Identity.Configuration
